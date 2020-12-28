@@ -1,7 +1,7 @@
 # Hi there, I'm Emre 👋
-
 [![linkedin badge](https://img.shields.io/badge/Emre_Kutuk-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/emkutuk)
 [![gmail badge](https://img.shields.io/badge/Emre_Kutuk-30302f?style=flat&logo=Gmail&logoColor=Red&link=mailto:emkutuk@gmail.com)](mailto:emkutuk@gmail.com)
+
 ---
 ### Who am i
 I am a freelancer <b>Data Analyst/Data Scientist</b> that is based in the Netherlands and specialized in <b>Python, SQL and Power BI.</b>
