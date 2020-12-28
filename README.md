@@ -11,9 +11,7 @@ As a Data Analyst my passion is to translate data into valuable and comprehensib
 [<img align="right" alt="Azure Badge" width="120px" src="https://emkutuk.com/img/AzureTechnical_Badge2.png" />](https://www.credential.net/f5107679-796a-4c38-a8f3-d5491d020f1b)
 
 <br><br><br><br>
----
-![Emre github stats](https://github-readme-stats.vercel.app/api?username=emkutuk&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
----
+
 ### Connect with me:
 
 [<img align="left" alt="emkutuk.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://emkutuk.com)
