@@ -9,7 +9,7 @@ As a Data Analyst my passion is to translate data into valuable and comprehensib
 
 <br><br>
 [<img align="right" alt="Microsoft Badge" width="120px" src="https://emkutuk.com/img/2020_12_DA-100_Badge.png" />](https://www.youracclaim.com/badges/b9edc4b8-ef82-434d-98f2-2a7864d38858?source=linked_in_profile)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emkutuk&layout=compact)](https://github.com/emkutuk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emkutuk&layout=compact)]
 [<img align="right" alt="Azure Badge" width="120px" src="https://emkutuk.com/img/AzureTechnical_Badge2.png" />](https://www.credential.net/f5107679-796a-4c38-a8f3-d5491d020f1b)
 [<img align="right" alt="IBM Badge" width="120px" src="https://emkutuk.com/img/DataAnalysisWithPythonBadge.png" />](https://www.youracclaim.com/badges/559f2fce-bc2f-4ce1-8474-7c751f0c5796/public_url)
 
