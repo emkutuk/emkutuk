@@ -1,7 +1,5 @@
 # Hi there, I'm Emre 👋
-[<img src ="https://img.shields.io/badge/Website-073551?style=for-the-badge&logo=curl&logoColor=white" />](https://emkutuk.com)
-[<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:emkutuk@gmail.com)
-[<img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/emkutuk)
+
 
 
 ### Who am i
@@ -15,3 +13,7 @@ As a Data Analyst my passion is to translate data into valuable and comprehensib
 [<img align="right" alt="Azure Badge" width="120px" src="https://emkutuk.com/img/AzureTechnical_Badge2.png" />](https://www.credential.net/f5107679-796a-4c38-a8f3-d5491d020f1b)
 [<img align="right" alt="IBM Badge" width="120px" src="https://emkutuk.com/img/DataAnalysisWithPythonBadge.png" />](https://www.youracclaim.com/badges/559f2fce-bc2f-4ce1-8474-7c751f0c5796/public_url)
 
+### Connect with me
+[<img src ="https://img.shields.io/badge/Website-073551?style=for-the-badge&logo=curl&logoColor=white" />](https://emkutuk.com)
+[<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:emkutuk@gmail.com)
+[<img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/emkutuk)
