@@ -3,7 +3,7 @@
 
 
 ### Who am i
-I am a freelancer <b>Data Analyst/Data Scientist</b> that is based in the Netherlands and specialized in <b>Python, SQL and Power BI.</b>
+I am a freelancer <b>Data Analyst</b> that is based in the Netherlands and specialized in <b>Python, SQL and Power BI.</b>
 
 As a Data Analyst my passion is to translate data into valuable and comprehensible insights.
 
