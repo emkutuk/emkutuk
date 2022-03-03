@@ -3,7 +3,7 @@
 
 
 ### Who am i
-I am a freelancer <b>DevOps Developer/Data Analyst</b> that is based in the Netherlands.
+I am a <b>DevOps Developer</b> that is based in the Netherlands.
 
 <br><br>
 [<img align="right" alt="Microsoft Badge" width="120px" src="https://emkutuk.com/img/2020_12_DA-100_Badge.png" />](https://www.youracclaim.com/badges/b9edc4b8-ef82-434d-98f2-2a7864d38858?source=linked_in_profile)
